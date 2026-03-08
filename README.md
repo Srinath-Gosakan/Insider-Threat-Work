@@ -137,6 +137,3 @@ Potential improvements for this project:
 ## Disclaimer
 
 The CERT dataset contains **synthetic enterprise activity logs** created for research purposes. This project is intended for **educational and research use only**.
-
-
-Data / ML Projects Portfolio
